@@ -1,7 +1,7 @@
 package MouseX::Traits;
 use Mouse::Role;
 
-our $VERSION   = '0.1101';
+our $VERSION   = '0.1102';
 
 has '_trait_namespace' => (
     init_arg => undef,

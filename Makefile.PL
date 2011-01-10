@@ -1,5 +1,4 @@
 use inc::Module::Install;
-use Module::Install::AuthorRequires;
 
 all_from 'lib/MouseX/Traits.pm';
 

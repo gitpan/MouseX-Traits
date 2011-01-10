@@ -25,4 +25,4 @@ requires:
   Mouse: 0.81
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.1101
+version: 0.1102
